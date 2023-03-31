@@ -1,6 +1,6 @@
 # Object Detection - SSD-MobileNet
 
-![](assets/clip.gif)
+![](output_screenshot_30.03ddd.2023.png)
 
 
 * Learn about *MobileNets* and separable depthwise convolutions.
